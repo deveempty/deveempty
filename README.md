@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deveempty
-- 💪🧑‍💻 Working really hard with ReactJS - Getting new skill as Front-End Developer! 
+- 💪🧑‍💻 React is life 💓 
 
 <!---
 deveempty/deveempty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
