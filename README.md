@@ -1,11 +1,5 @@
 
 <p align="center">
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&duration=3000&pause=500&color=902828&center=true&vCenter=true&random=false&width=435&lines=%C2%A1Hey!+There+you+are;Welcome+to+my+github;FullStack+Developer;Game+Developer+as+Hobby;And+there+is+more..." alt="Typing SVG" /></a> -->
-</p>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <div align="center">
 
 # 💫 About Me:
